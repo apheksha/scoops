@@ -1,5 +1,4 @@
-# Scoops & Smiles - Your Favorite Ice Cream Destination
-
+# Scoops & Smiles 
 Scoops & Smiles is a delightful Flutter mobile application that allows users to browse a variety of delicious ice cream flavors, add them to their cart, manage a wishlist, and even switch between light and dark themes.
 
 ---
