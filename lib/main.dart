@@ -63,7 +63,7 @@ class _IceCreamHomePageState extends State<IceCreamHomePage> {
           'Vanilla Dream is made with premium vanilla beans and has a creamy texture that melts in your mouth. Perfect for those who love classic flavors with a touch of elegance.',
     },
     {
-      'name': 'Chocolate Delight',
+      'name': 'Chocolate Love',
       'image':
           'https://th.bing.com/th/id/OIP.3Uoroez-JGH1L0Wb6NN2owHaHa?w=203&h=202&c=7&r=0&o=5&pid=1.7',
       'price': '₹100',
